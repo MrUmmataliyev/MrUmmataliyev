@@ -22,7 +22,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" align="left">
       <img width=390 src="https://github-readme-stats.vercel.app/api?username=MrUmmataliyev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUmmataliyev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img width=387 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUmmataliyev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </div>
 
   <br>
