@@ -27,9 +27,9 @@
 
 
 <div align="right">
-  <h3 align="right"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=220&height=70&duration=4000&lines=Profile+views">
+  <h3 align="right"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=300&height=70&duration=4000&lines=Profile+views">
 </h3>
-  <img src="https://profile-counter.glitch.me/MrUmmataliyev/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/MrUmmataliyev/count.svg?" width="300" />
 </div>
 
   <br>
