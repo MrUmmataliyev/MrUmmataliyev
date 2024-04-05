@@ -5,7 +5,7 @@
 
 </h1>
   <br>
-  <img align="right" alt="Coding" width="450" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+  <img align="right" alt="Coding" width="440" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
 
@@ -24,8 +24,6 @@
     </a>
     <img width=387 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUmmataliyev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </div>
-
-
 <div align="right">
   <h3 align="right"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=300&height=70&duration=4000&lines=Profile+views">
 </h3>
